@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santoshmcode
+- 👋 Hi, I’m Santosh
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning JS and more
 - 💞️ I’m looking to collaborate on any web project

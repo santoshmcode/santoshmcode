@@ -8,8 +8,6 @@
 
 -   👨‍💻 Connect with me **[@santoshcodes](https://twitter.com/santoshcodes)**
 
--   🔭 I’m currently working on **[Groww Clone](https://github.com/santoshmcode/groww-clone)**
-
 -   🌱 I’m currently learning **Data Structures and Algorithms.**
 
 -   <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p>
